@@ -8,4 +8,4 @@ Built in Horizon Worlds. You can explore this world using this [link](https://ww
 
 Disclaimer: Horizon Views requires a Quest 2 or Rift S headet! 
 
-![a selfie of the two creators](./Screenshots/the hack day 3.png)
+![a selfie of the two creators](./Screenshots/the hack day 3.jpg)
